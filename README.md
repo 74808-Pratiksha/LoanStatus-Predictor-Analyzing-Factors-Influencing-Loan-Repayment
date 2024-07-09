@@ -1,14 +1,14 @@
-# LoanStatus-Predictor-Analyzing-Factors-Influencing-Loan-Repayment
+## LoanStatus-Predictor-Analyzing-Factors-Influencing-Loan-Repayment
 
-# Problem Statement
+## Problem Statement
 The dataset aims to analyze the factors influencing loan repayment behavior to improve credit risk assessment models.
 
-# Objectives
+## Objectives
 Identify key factors (such as income, employment status) influencing loan default rates.
 Build predictive models to forecast loan repayment likelihood.
 Provide insights to improve loan approval processes and reduce credit risks.
 
-# Methodology
+## Methodology
 Data Understanding and Preparation:
 Data Loading: Load the dataset using pd.read_csv() and inspect its structure using df.head() to understand the initial format.
 Data Information: Use df.info() to understand the data types and missing values (df.isna().sum()).
